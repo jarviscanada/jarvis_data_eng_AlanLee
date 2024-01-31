@@ -27,7 +27,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AlanLee](h
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (Jan 2024 - present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Software Developer, Jarvis (Jan 2024 - present)**: Utilized Docker to containerize applications, integrating PostgreSQL for efficient database management. Developed Bash scripts and employed Linux commands to optimize development workflows. Engaged in daily scrum meetings, facilitating agile project progression and continuous adaptation to new technologies.
 
 **Full Stack Developer, inspoboard (Dec 2022 - Jan 2024)**: Developed a JavaScript-based Chrome extension designed for marketing professionals, enhancing our web platform by streamlining ad imports from Facebook and TikTok, resulting in a 94% boost in ad management efficiency; architected a collaborative feature introducing shared workspaces that significantly improved teamwork productivity and user engagement; engineered a bespoke integration with Stripe's API for secure payment transactions, incorporating custom logic for prorated credit calculations for usage-based plan changes, enhancing the user payment experience; and collaborated within a three-person team, focusing on backend development while also taking on significant frontend tasks using React, within a scrum framework to ensure efficient project progression and daily task management.
 
@@ -38,4 +38,3 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AlanLee](h
 
 ## Miscellaneous
 - Reading
-- Competitive gaming
