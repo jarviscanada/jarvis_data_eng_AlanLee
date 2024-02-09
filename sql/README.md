@@ -1,6 +1,6 @@
 # Introduction
 
-This project focuses on gaining hands-on experience with PostgreSQL through a series of practical exercises. The objective is to understand and implement various database operations including CRUD, joins, as well as executing complexy query searches. The setup of the PostgreSQL database environment is facilitated using Docker, providing a streamlined and isolated environment for database management. A dataset named clubdata.sql is imported to simulate real-world data manipulation and querying tasks. Through this project, the aim is to build proficiency in managing databases with PostgreSQL and to apply these skills in data management and analysis scenarios.
+This project focuses on gaining hands-on experience with PostgreSQL through a series of practical exercises. The objective is to understand and implement various database operations including CRUD, joins, as well as executing complex query searches. The setup of the PostgreSQL database environment is facilitated using Docker, providing a streamlined and isolated environment for database management. A dataset named clubdata.sql is imported to simulate real-world data manipulation and querying tasks. Through this project, the aim is to build proficiency in managing databases with PostgreSQL and to apply these skills in data management and analysis scenarios.
 
 # SQL Queries
 
