@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_AlanLee
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: "I'm currently embracing the role of a software developer at Jarvis, where I continue to expand my technical skills and innovate within the tech industry. Prior to joining Jarvis, I served as a full-stack developer at a marketing analytics platform, where I gained substantial experience in building applications using the MERN stack (MongoDB, Express, React, and Node.js). My academic journey in computer science at York University provided me with a strong foundation in software development, equipping me with the knowledge and skills to excel in my professional career.
+summary: "I'm currently a software developer at Jarvis, where I continue to expand my technical skills and innovate within the tech industry. Prior to joining Jarvis, I served as a full-stack developer at a marketing analytics platform, where I gained substantial experience in building applications using the MERN stack (MongoDB, Express, React, and Node.js). My academic journey in computer science at York University provided me with a strong foundation in software development, equipping me with the knowledge and skills to excel in my professional career.
 
 What truly excites me about the software industry is its constant evolution and the capacity to drive significant improvements in quality of life through technology. I am deeply passionate about leveraging my skills to develop software solutions that are not only innovative but also accessible and impactful. The opportunity to tackle complex problems, contribute to meaningful projects, and continuously learn in this ever-changing field is what motivates me daily. My experiences, both academic and professional, have fueled my enthusiasm for making a positive difference through technology, and I look forward to contributing to transformative projects in my current and future roles."
 
@@ -46,7 +46,7 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Developed an MVP to enhance Linux cluster management, focusing on real-time CPU usage monitoring. This was achieved by deploying Bash scripts, scheduled via crontab to run every minute, to collect hardware specifications and CPU usage data. The information was stored in a PostgreSQL database, established using Docker, enabling improved resource allocation and system performance. This setup ensures continuous and automated tracking of CPU performance across nodes.
+    description: Developed a command-line application to optimize Linux cluster management, focusing on real-time monitoring of system resources. By deploying Bash scripts, scheduled through crontab to execute every minute, the tool collects data on hardware specifications, including CPU performance, storage space, and memory utilization. This data is stored in a PostgreSQL database, set up using Docker, facilitating enhanced resource allocation and overall system efficiency. This arrangement guarantees continuous and automated tracking of key performance metrics across all nodes.
   #  - name: "Core Java Apps"
   #   git_url: "/core_java"
   #   description:
@@ -104,7 +104,7 @@ professional_experience:
 
 #List of edcuation
 education:
-  - school_name: "York university"
+  - school_name: "York University"
     duration: "Sept 2018 - Feb 2023"
     degree: "Honours Bachelor of Science in Computer Science"
     department: "Lassonde School of Engineering"
@@ -122,5 +122,7 @@ others:
   #       - "Winner"
   - title: "Activities/Hobbies"
     bullets:
-      - "Reading"
+      - "Reading (I read a lot of fantasy novels every year)"
+      - "Competitve Gaming (Striving to improve by climbing the league of legend ranked ladder is fulfilling my itch for competition)"
+      - "Fitness (Reduce likelihood of backpain in the future)"
 
