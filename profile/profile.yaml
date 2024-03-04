@@ -1,0 +1,128 @@
+# Preferred name (Characters only)
+name: "Alan Lee"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_AlanLee
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: "I'm currently a software developer at Jarvis, where I continue to expand my technical skills and innovate within the tech industry. Prior to joining Jarvis, I served as a full-stack developer at a marketing analytics platform, where I gained substantial experience in building applications using the MERN stack (MongoDB, Express, React, and Node.js). My academic journey in computer science at York University provided me with a strong foundation in software development, equipping me with the knowledge and skills to excel in my professional career.
+
+What truly excites me about the software industry is its constant evolution and the capacity to drive significant improvements in quality of life through technology. I am deeply passionate about leveraging my skills to develop software solutions that are not only innovative but also accessible and impactful. The opportunity to tackle complex problems, contribute to meaningful projects, and continuously learn in this ever-changing field is what motivates me daily. My experiences, both academic and professional, have fueled my enthusiasm for making a positive difference through technology, and I look forward to contributing to transformative projects in my current and future roles."
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - JavaScript
+    - MonogoDb/NoSQL
+    - React
+    - Node.js
+    - Git
+    - Typescript
+  # At least 5 skills
+  competent:
+    - AWS
+    - Stripe
+    - Docker
+    - Jest/Unit Testing
+    - Cloud Services (AWS)
+    - Puppeteer
+  # At least 5 skills
+  familiar:
+    - Python
+    - Angular
+    - C
+    - Springboot
+    - GraphQL
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a command-line application to optimize Linux cluster management, focusing on real-time monitoring of system resources. By deploying Bash scripts, scheduled through crontab to execute every minute, the tool collects data on hardware specifications, including CPU performance, storage space, and memory utilization. This data is stored in a PostgreSQL database, set up using Docker, facilitating enhanced resource allocation and overall system efficiency. This arrangement guarantees continuous and automated tracking of key performance metrics across all nodes.
+  #  - name: "Core Java Apps"
+  #   git_url: "/core_java"
+  #   description:
+  #     - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  #     - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  #     - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  # - name: "Springboot App"
+  #   git_url: "/springboot"
+  #   description: ""
+  # - name: "Python Data Analytics"
+  #   git_url: "/python_data_anlytics"
+  #   description: ""
+  # - name: "Hadoop"
+  #   git_url: "/hadoop"
+  #   description: ""
+  # - name: "Spark"
+  #   git_url: "/spark"
+  #   description: ""
+  # - name: "Cloud/DevOps"
+  #   git_url: "/cloud_devops"
+  #   description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+  #project name
+  - name: "Shopping Cart"
+    #URL is optional
+    git_url:
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Engineered a full-stack web application leveraging Node.js for robust backend services and Angular for a dynamic frontend, supported by SQLite for database management, where I designed and deployed a comprehensive backend architecture to craft RESTful APIs for efficient management of product catalogs, shopping cart functionalities, and checkout procedures, while also enhancing user experience by developing intuitive shopping cart features and a seamless checkout flow for a responsive and interactive web interface.
+  - name: "Sentiment Analyzer"
+    git_url:
+    description: Developed a Python-based application to gather and analyze sentiment from similar apps on the Google Play Store, delivering valuable insights into user feedback, and utilized the Natural Language Toolkit (NLTK) library for preprocessing each review, which enabled accurate sentiment analysis and facilitated the creation of a list of topics for each app.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "Jan 2024 - present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Utilized Docker to containerize applications, integrating PostgreSQL for efficient database management. Developed Bash scripts and employed Linux commands to optimize development workflows. Engaged in daily scrum meetings, facilitating agile project progression and continuous adaptation to new technologies."
+  - title: "Full Stack Developer"
+    company: "inspoboard"
+    duration: "Dec 2022 - Jan 2024"
+    description:
+      "Developed a JavaScript-based Chrome extension designed for marketing professionals, enhancing our web platform by streamlining ad imports from Facebook and TikTok, resulting in a 94% boost in ad management efficiency; architected a collaborative feature introducing shared workspaces that significantly improved teamwork productivity and user engagement; engineered a integration with Stripe's API for secure payment transactions, incorporating custom logic for prorated credit calculations for usage-based plan changes;  collaborated within a three-person team, focusing on backend development while also taking on significant frontend tasks using React, within a scrum framework to ensure efficient project progression and daily task management."
+      # - "Developed a Chrome extension in JavaScript for marketing professionals, enabling seamless ad imports from Facebook and TikTok to our web dashboard resulting in a 94% efficiency increase in ad management workflows."
+      # - "Designed and implemented a team collaboration feature, enabling shared workspaces and streamlined ad management, significantly enhancing teamwork efficiency and user engagement."
+      # - "Integrated Stripe API for secure payment processing, implementing custom logic for prorated credit calculations to handle usage-based plan switches, a feature not natively supported by Stripe. This addition to our platform's backend and database streamlined transactions, enhancing the user payment experience."
+      # - "Collaborated in a three-person team, contributing to frontend development while taking primary responsibility for backend tasks; adhered to a scrum framework that included daily team meetings and systematic task tracking."
+
+#List of edcuation
+education:
+  - school_name: "York University"
+    duration: "Sept 2018 - Feb 2023"
+    degree: "Honours Bachelor of Science in Computer Science"
+    department: "Lassonde School of Engineering"
+    # optional
+    awards_achievements:
+#Optional section
+others:
+  #   #category
+  #   - title: "Certificates"
+  #     #list of items
+  #     bullets:
+  #       - "Udacity Machine Learning (2019)"
+  #   - title: "Awards"
+  #     bullets:
+  #       - "Winner"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Reading (I read a lot of fantasy novels every year)"
+      - "Competitve Gaming (Striving to improve by climbing the league of legend ranked ladder is fulfilling my itch for competition)"
+      - "Fitness (Reduce likelihood of backpain in the future)"
+
