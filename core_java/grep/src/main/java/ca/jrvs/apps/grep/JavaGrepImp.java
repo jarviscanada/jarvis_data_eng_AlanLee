@@ -6,7 +6,6 @@ import org.slf4j.LoggerFactory;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 
@@ -35,9 +34,20 @@ public class JavaGrepImp implements JavaGrep{
     @Override
     public List<File> listFiles(String rootDir) {
         File directory = new File(rootDir);
-        List<File> files = Arrays.asList(directory.listFiles());
+        List<File> resultList = new ArrayList<>();
+        File[] files = directory.listFiles();
 
-        return files;
+        if (files != null) {
+            for (File file : files) {
+                if (file.isFile()) {
+                    resultList.add(file);
+                } else if (file.isDirectory()) {
+                    resultList.addAll(listFiles(file.getAbsolutePath()));
+                }
+            }
+        }
+
+        return resultList;
     }
 
     @Override
